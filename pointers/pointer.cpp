@@ -19,7 +19,7 @@ cout<<var<<endl;
 cout<<&var<<endl;
 cout<<*varPointer<<endl;
 cout<<&varPointer<<endl;
-
+cout<<" "<<endl;
 
 char ch='J';
 //char pointer
