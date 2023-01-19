@@ -2,6 +2,13 @@
 using namespace std;
 int main(){
 
+double db = 10;
+double *dbpointer = &db;
+cout<<db<<endl;
+cout<<dbpointer<<endl;
+cout<<*dbpointer<<endl;
+cout<<&db<<endl;
+cout<<" "<<endl;
 
 int var = 5;
 //int pointer
