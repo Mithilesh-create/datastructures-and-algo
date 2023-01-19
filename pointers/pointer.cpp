@@ -23,4 +23,20 @@ cout<<*chpointer<<endl;
 cout<< &ch <<endl;
 cout<< &chpointer <<endl;
 
+
+class Node  {
+    public:
+        int value;
+        Node *next;
+}
+
+
+
+
+
+
+
+
+
+
 }
