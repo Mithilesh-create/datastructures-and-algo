@@ -1,4 +1,7 @@
 [
     "Reverse an array",
-    "Reverse an array via stacks"
+    "Reverse an array via stacks",
+    "Reverse an array using another array",
+    "Reverse an array using recursion",
+    "Reverse an array using two pointer"
 ]
