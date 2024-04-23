@@ -1,7 +1,12 @@
 [
-    "Reverse an array",
     "Reverse an array via stacks",
     "Reverse an array using another array",
     "Reverse an array using recursion",
-    "Reverse an array using two pointer"
+    "Reverse an array using two pointer",
+    "Sort 0s and 1s using counting",
+    "Sort 0s and 1s using swapping",
+    "Sort 0s ,1s and 2s using counting",
+    "Sort 0s ,1s and 2s using DNF",
+    "Max sum subarray total",
+    "Max sum subarray"
 ]
