@@ -7,11 +7,23 @@ int main()
     int right = 10;
     while (left < right)
     {
-        if (arr[left] == 0)
+        if (arr[left] != 0)
         {
-            
+            if (arr[right] != 1)
+            {
+                swap(arr[left], arr[right]);
+                left++;
+                right--;
+            }
+            else
+            {
+                right--;
+            }
         }
-        
+        else
+        {
+            left++;
+        }
     }
     for (int i = 0; i < 11; i++)
     {
