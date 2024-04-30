@@ -8,5 +8,14 @@
     "Sort 0s ,1s and 2s using counting",
     "Sort 0s ,1s and 2s using DNF",
     "Max sum subarray total",
-    "Max sum subarray"
+    "Max sum subarray",
+    "Reverse a Linked List (non-recursion)",
+    "Reverse a Linked List (recursion)",
+    "Add two numbers represented in Linked List",
+    "Spiral Matrix I",
+    "Best time to buy and sell stocks I",
+    "Best time to buy and sell stocks II",
+    "Best time to buy and sell stocks III",
+    "Rotate an array"
+    
 ]
